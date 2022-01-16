@@ -1,0 +1,14 @@
+{"level":30,"time":"2021-10-23T05:25:55.255Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Listening on 7902"}
+{"level":30,"time":"2021-10-23T05:25:55.685Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-23T05:25:55.694Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Changed active context"}
+{"level":30,"time":"2021-10-23T05:25:56.676Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-23T05:25:56.676Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Changed active page"}
+{"level":30,"time":"2021-10-23T05:26:00.310Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Page|Frame|Element resolved elementSelector: //*[@name='q']"}
+{"level":30,"time":"2021-10-23T05:26:00.360Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Page|Frame|Element resolved elementSelector: :nth-match(:text(\"Google Search\"), 1)"}
+{"level":30,"time":"2021-10-23T05:26:01.364Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Page|Frame|Element resolved elementSelector: text=\"Images\""}
+{"level":30,"time":"2021-10-23T05:26:02.630Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Changed active context"}
+{"level":30,"time":"2021-10-23T05:26:02.630Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-23T05:26:02.630Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Changed active page"}
+{"level":30,"time":"2021-10-23T05:26:02.640Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Changed active context"}
+{"level":30,"time":"2021-10-23T05:26:02.640Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-23T05:26:02.640Z","pid":25580,"hostname":"LAPTOP-G4KVKL2F","msg":"Changed active page"}
